@@ -1,3 +1,3 @@
 ## ¡Hola! Soy Miguel Ángel Bienvenido 👋🏻
 
-![Vista de la app](images/DevMiguelAngel.png)
+![Vista de la app](images/mgarzondev.png)
